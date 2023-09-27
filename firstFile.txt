@@ -1,2 +1,5 @@
 This is a new file
 Added some new lines to the file
+
+
+Added a new line
